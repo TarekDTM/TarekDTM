@@ -1,8 +1,10 @@
 # Tarek Ahmed
 Frontend Developer
-Cairo • tarekabuoeleneen@gmail.com • +20 1021190202
+Cairo 
+• tarekabuoeleneen@gmail.com 
+• +20 1021190202
 
-## Profile
+## Summary
 Experienced Software Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Equipped with a diverse and promising skill set. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
 ## Technical Skills
@@ -56,12 +58,12 @@ Experienced Software Developer adept in all stages of advanced web development. 
    - Executed design improvements.
 
 - **Nessba** - E-commerce App
-   - Led frontend development and standard setting.
+   - Led front-end development and standard setting.
    - Implemented new features and design overhauls.
    - Managed translation and migration tasks.
 
 **Intern Developer | Pravica | On Site, Cairo, Egypt | 2019-2020 (1 year)**
-- Developed front end for the landing page using pure JavaScript, HTML, and CSS.
+- Developed the front end for the landing page using pure JavaScript, HTML, and CSS.
 - Assisted with UI changes for RateMyUi and learned about blockchain technology.
 - In charge of documentation and content writing for the company.
 
