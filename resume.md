@@ -17,6 +17,7 @@ Experienced Software Developer adept in all stages of advanced web development. 
 - Nest.js
 - CSS
 - HTML
+- mySQL
 
 ## Professional Experience
 
